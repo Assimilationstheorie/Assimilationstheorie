@@ -6,7 +6,7 @@
  <img width="150" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/laravel.png?raw=true">
 </p>
  
-### Laravel ✨
+### That's me. ✨
 
 I am a very big Laravel fan who likes to explore new technologies and who receives most of his code lines from the cosmos! 🛰 ✨ 
 
@@ -17,4 +17,6 @@ I am a very big Laravel fan who likes to explore new technologies and who receiv
   <img width="50" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/phpstorm.png?raw=true">
   <img width="130" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/azure.png?raw=true">
   <img width="50" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/git.png?raw=true">
+  <img width="50" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/androidstudio.png?raw=true">
+  <img width="50" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/angular.png?raw=true">
 </p>
