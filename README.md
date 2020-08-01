@@ -13,7 +13,9 @@ I am a very big Laravel fan who likes to explore new technologies and who receiv
  ---
  
 <p style="poasition:fixed">
- <img width="150" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/docker.png?raw=true">
-  <img width="50" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/phpstorm.png?raw=true">
-  <img width="130" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/azure.png?raw=true">
+ <img width="100" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/docker.png?raw=true">
+  <img width="40" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/phpstorm.png?raw=true">
+  <img width="100" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/azure.png?raw=true">
+   <img width="40" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/androidstudio.png?raw=true">
+  <img width="40" align='left' src="https://github.com/Assimilationstheorie/Assimilationstheorie/blob/master/angular.png?raw=true">
 </p>
